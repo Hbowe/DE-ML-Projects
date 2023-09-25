@@ -9,6 +9,6 @@ Raw JSON data is scraped via the Algod API. JSON files come segmented into pre-s
 
 Files are stored in the temp directory for the duration of scraping loop before being moved into raw individual directories. 
 
-Files are cleaned and stored as a list of dataframes to be concatonated into the existing cleaned and consolidate file created and maintaed from prior runs. 
+Files are cleaned and stored as a list of dataframes to be concatonated into the existing cleaned and consolidate file created and maintained from prior runs. 
 
 Cleaned files are uploaded to SQL server via a SQL-Alchemy connection and dashboarded via Apache Superset.
