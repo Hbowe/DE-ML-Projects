@@ -12,3 +12,4 @@ Files are stored in the temp directory for the duration of scraping loop before 
 Files are cleaned and stored as a list of dataframes to be concatonated into the existing cleaned and consolidated file created and maintained from prior runs. 
 
 Cleaned files are uploaded to SQL server via a SQL-Alchemy connection and dashboarded via Apache Superset.
+Both Superset and an instance of Apache Airflow are hosted via Docker containers
