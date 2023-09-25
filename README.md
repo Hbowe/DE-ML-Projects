@@ -1,7 +1,7 @@
 # DE-ML-Projects
 ![PW Staking](https://github.com/Hbowe/DE-ML-Projects/assets/122368075/3563cee1-ec01-48c5-81ec-9f24c14dfce2)
 
-Data pipeline scraping the PlanetWatch blockchain (built on Algorand) for user participation in a staking incentive program running 02/23-02/24
+Data pipeline scraping the PlanetWatch blockchain (built on Algorand) for user participation in a staking incentive program running 02/23-02/24 https://www.planetwatch.io/hodler-program/
 
 ![Blank diagram](https://github.com/Hbowe/DE-ML-Projects/assets/122368075/2a35c5e8-4339-4270-afab-fdf1742a446a)
 
